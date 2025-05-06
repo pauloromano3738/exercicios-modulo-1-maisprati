@@ -1,0 +1,23 @@
+{
+  "name": "exercicios-modulo-1-maisprati",
+  "version": "1.0.0",
+  "description": "Exercícios do módulo 1 da MaisPraTI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloromano3738/exercicios-modulo-1-maisprati.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloromano3738/exercicios-modulo-1-maisprati/issues"
+  },
+  "homepage": "https://github.com/pauloromano3738/exercicios-modulo-1-maisprati#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
