@@ -2,7 +2,7 @@
 // de uma pessoa e determina a categoria de peso (baixo peso, 
 // peso normal, sobrepeso, obesidade) utilizando if-else.
 
-const prompt = require('prompt-sync')();
+const prompt = require('prompt-sync')()
 
 let peso = Number(prompt("dígite o seu peso em kilos (KG): "));
 let altura = Number(prompt("dígite a sua altura em metros (M): "))

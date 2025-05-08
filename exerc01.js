@@ -2,7 +2,7 @@
 // e verifica se ele é par ou ímpar utilizando 
 // uma estrutura de controle if.
 
-const prompt = require('prompt-sync')();
+const prompt = require('prompt-sync')()
 
 console.log("-----dígite 0 para sair-----")
 

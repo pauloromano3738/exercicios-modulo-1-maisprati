@@ -2,7 +2,7 @@
 // e classifica como "Aprovado", "Recuperação", 
 // ou "Reprovado" utilizando if-else if.
 
-const prompt = require('prompt-sync')();
+const prompt = require('prompt-sync')()
 
 console.log("-----dígite 0 para sair-----")
 

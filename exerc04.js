@@ -2,7 +2,7 @@
 // de três opções. Utilize switch-case para implementar 
 // a lógica de cada opção selecionada.
 
-const prompt = require('prompt-sync')();
+const prompt = require('prompt-sync')()
 
 const valorAlcool = 4.5
 const valorGasolinaAditivada = 6.5

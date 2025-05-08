@@ -3,7 +3,7 @@
 // com base no valor fornecido, utilizando uma 
 // estrutura de controle if-else.
 
-const prompt = require('prompt-sync')();
+const prompt = require('prompt-sync')()
 
 console.log("-----dígite 0 para sair-----")
 
