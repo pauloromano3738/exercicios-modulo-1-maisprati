@@ -20,3 +20,15 @@ if (!isNaN(macasCompradas) && macasCompradas > 0) {
 } else {
     console.log("dígite um valor válido!")
 }
+
+if (num1 !== num2) {
+    if (num1 > num2) {
+        console.log(num1)
+        console.log(num2)
+    } else {
+        console.log(num2)
+        console.log(num1)
+    }
+} else {
+    console.log("os números são iguais! Dígite outros números")
+}
